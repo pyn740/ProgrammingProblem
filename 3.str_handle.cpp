@@ -76,7 +76,8 @@ int main(){
 	
 	cout<< m_strcmp(a,b)<<endl;
 	
-	//cout<< m_strcat1(a,b)<<endl;
+	//cout<< m_strcat1(a,b)<<endl; 
+	
 	cout<< m_strcat2(a,b)<<endl;
 	
 	cout<< m_strcpy(a,b)<<endl;

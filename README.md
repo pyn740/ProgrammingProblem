@@ -11,3 +11,5 @@
 ####3. 标准字符串处理函数
 
 strlen, strcmp, strcat, strcpy...
+
+####4. 大正整数相乘

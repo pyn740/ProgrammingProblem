@@ -19,7 +19,7 @@ int main(){
 		
 		queue<long long> x_que;
 		x_que.push(x);
-		unordered_map<long long, int> xNode_map;
+		unordered_map<long long, int> xNode_map;   
 		xNode_map[x] = 1;
 		long long xx;
 		

@@ -21,3 +21,7 @@ strlen, strcmp, strcat, strcpy...
 ####6. 单词逆转
 
 字符串中的单词逆转，如将“Today is Friday”逆转为“Friday is Today”
+
+####7. 删除模式串中出现的字符
+
+如“welcome to asted”,模式串为“aeiou”,那么得到的字符串为“wlcm t std”

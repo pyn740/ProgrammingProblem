@@ -13,3 +13,7 @@
 strlen, strcmp, strcat, strcpy...
 
 ####4. 大正整数相乘
+
+####5. 单词逆转
+
+字符串中的单词逆转，如将“Today is Friday”逆转为“Friday is Today”

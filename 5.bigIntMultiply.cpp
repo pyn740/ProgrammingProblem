@@ -15,7 +15,7 @@ void multiply(const char * str1, const char * str2){
 	
 	int * res1 = (int *)malloc(sizeof(int)*(len1+len2));
 	
-	for(i = 0; i < len1 + len2; i ++){    //PS2
+	for(i = 0; i < len1 + len2; i ++){    //³õÊ¼»¯ 
 		res1[i] = 0;
 	}
 	

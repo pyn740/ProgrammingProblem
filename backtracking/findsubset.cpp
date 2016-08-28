@@ -2,6 +2,7 @@
 #include <cstring>
 
 #define M  500
+
 using namespace std;
 
 char a[M];  //‘≠Œ Ã‚ 

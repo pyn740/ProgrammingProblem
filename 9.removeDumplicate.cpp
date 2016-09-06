@@ -1,7 +1,7 @@
 #include <iostream>
 
 #define N 50
-
+  
 using namespace std;
 
 char * removeDumplicate(char * str){

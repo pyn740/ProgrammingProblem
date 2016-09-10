@@ -32,7 +32,6 @@ void backtrack(int whichchar){
 			backtrack(whichchar + 1);
 		}
 	}
-	
 }
 
 int main(){
